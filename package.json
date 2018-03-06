@@ -1,0 +1,16 @@
+{
+  "name": "sidebot",
+  "version": "1.0.0",
+  "description": "SideMC discord serverio botas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nedas",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "ms": "^2.1.1",
+    "superagent": "^3.8.2"
+  }
+}

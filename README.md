@@ -1,0 +1,2 @@
+# ndxsbot
+Discord moderation bot
